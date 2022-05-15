@@ -1,0 +1,51 @@
+/* Цвет основного теста #775755; */
+/* Вторичный цвет текста #212121 */
+/* Цвет акцент #2196F3 */
+/* Белый цвет #FFFFFF */
+/*Цвет адресса в подвале rgba(255, 255, 255, 0.6); */
+/* Вторичный цвет фона #2F303A; */
+
+body{
+background-color: #FFFFFF;
+color: #775755;
+}
+.list{
+    list-style: none;
+}
+/* Logo */
+.web-logo{
+    color: #2196F3;
+}
+.logo{
+    color: #000000;
+}
+footer > .logo{
+    color: #FFFFFF;
+}
+
+/* Navigation */
+.site-nav .link{
+    color: #212121;
+}
+.site-nav .link:hover, .site-nav .link:focus,
+.auth-nav .link:hover, .auth-nav .link:focus{
+    color: #2196F3;
+}
+.auth-nav .link{
+    color: #775755;
+}
+
+/* Hero */
+.hero-title{
+    color: #FFFFFF;
+}
+.hero{
+    background-color: #2F303A;
+}
+
+/* Section */
+.title{
+    color: #212121;
+}
+
+/* Fuatures list */
