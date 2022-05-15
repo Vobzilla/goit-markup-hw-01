@@ -139,8 +139,9 @@ footer>.logo {
     font-size: 16px;
     line-height: 1.62;
 }
+
 /* Project portfolio */
-.project-title{
+.project-title {
     color: var(--title-text-color);
     font-size: 18px;
     line-height: 2;
@@ -156,7 +157,7 @@ footer>.logo {
 /* Footer */
 .footer {
     background-color: var(--accent-bgc);
-}   
+}
 
 .text-footer {
     color: var(--white-color);
