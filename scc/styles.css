@@ -156,6 +156,10 @@ footer>.logo {
     font-size: 16px;
     line-height: 1.62;
 }
+.button-portfolio:hover,
+.button-portfolio:focus{
+    background-color: var(--accent-color);
+}
 
 /* Project portfolio */
 .project-title {
